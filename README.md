@@ -11,7 +11,7 @@ Agent skill generated from *《工程伦理》* by 徐海涛（电子工业出�
 在任意 Agent Skills 兼容的主机（GitHub Copilot CLI、Claude Code、Amp、OpenClaw 等）上运行：
 
 ```bash
-npx skills add https://github.com/<your-username>/xuhaitao-engineering-ethics --skill xuhaitao-engineering-ethics
+npx skills add https://github.com/LeedYong/xuhaitao-engineering-ethics --skill xuhaitao-engineering-ethics
 ```
 
 ## 使用
